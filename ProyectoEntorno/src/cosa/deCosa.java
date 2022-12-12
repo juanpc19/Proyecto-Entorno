@@ -4,7 +4,7 @@ public class deCosa {
 
 	public static void main(String[] args) {
 
-		System.out.println("hola cosa");
+		System.out.println("Hola, soy Juan Perez");
 	}
 
 }
